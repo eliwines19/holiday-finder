@@ -1,0 +1,11 @@
+.jumbotron {
+    background: url("/images/freenaturestock-1779.jpg") center center;
+    background-size: cover;
+    height: 600px;
+}
+
+.logo {
+    width: 7rem;
+    height: 7rem;
+    padding: 1rem;
+}
